@@ -1,6 +1,6 @@
 # Umbrella
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0 and NGRX 8
+This is Fake Umbrella UI project. It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0 and NGRX 8
 
 ## Development server
 
